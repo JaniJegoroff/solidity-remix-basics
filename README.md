@@ -1,2 +1,3 @@
 # solidity-remix-basics
-Basic smart contract Solidity examples that can be easily deployed in Remix compiler
+
+Basic smart contract examples in Solidity that can be easily deployed in Remix compiler.
