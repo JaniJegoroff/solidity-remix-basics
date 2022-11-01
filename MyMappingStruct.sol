@@ -1,7 +1,7 @@
 //SPDX-License-Identifier: MIT
 pragma solidity 0.8.17;
 
-contract MappingsStructExample {
+contract MyMappingStruct {
     struct Transaction {
         uint amount;
         uint timestamp;
